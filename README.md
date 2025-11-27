@@ -1,4 +1,17 @@
-I’m a Data Science engineering student based in France, deeply interested in Artificial Intelligence—particularly personalization, behavior modeling, user-centric design, and recommendation systems.
-I’m passionate about building and optimizing intelligent systems, focusing not only on performance and quality but also on improving the overall user experience.
+I’m a Data Science engineering student based in France, passionate about **Artificial Intelligence**, especially:
 
-![Profile Views](https://komarev.com/ghpvc/?username=binhminh11&style=flat-square&color=blue)
+- Personalization  
+- Behavior Modeling  
+- User-Centric Machine Learning  
+- Recommendation Systems  
+
+I enjoy building intelligent systems that combine **performance, reliability, and an excellent user experience**.
+
+
+---
+
+## 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tr.binhminh11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binhminh10/)
+
