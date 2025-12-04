@@ -3,7 +3,8 @@ I’m a Data Science engineering student based in France, passionate about **Art
 - Personalization  
 - Behavior Modeling  
 - User-Centric Machine Learning  
-- Recommendation Systems  
+- Recommendation Systems
+- Contextual awareness
 
 I enjoy building intelligent systems that combine **performance, reliability, and an excellent user experience**.
 
